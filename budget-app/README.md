@@ -22,7 +22,7 @@ A Python application that allows users to manage budgets across different catego
 - Loops and conditionals
 
 ## ▶️ Example Output
-
+```
 *************Food*************
 initial deposit        1000.00
 groceries               -10.15
@@ -51,3 +51,4 @@ Percentage spent by category
         i     
         n     
         g     
+```
