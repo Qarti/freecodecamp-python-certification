@@ -29,4 +29,11 @@ A project using object-oriented programming and inheritance.
 
 ---
 
+### 4. Hash Table
+A custom implementation of a hash table with collision handling.
+
+📁 [View Project](./hash-table)
+
+---
+
 More projects coming soon 🚀
